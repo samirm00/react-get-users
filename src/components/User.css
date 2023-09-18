@@ -1,0 +1,25 @@
+.user-card {
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    width: 70%;
+    font-family: fantasy;
+}
+
+.user-card h2 {
+    color: #007bff;
+}
+
+.address,
+.company {
+    margin-top: 15px;
+    padding-left: 15px;
+    border-left: 2px solid #007bff;
+}
+
+.address h3,
+.company h3 {
+    color: #007bff;
+}
